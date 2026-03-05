@@ -7,7 +7,7 @@
     {
       "name": "naiki-review",
       "description": "👁️ Code review with human judgment — evaluates proportionality, naming, architecture, and domain understanding. Complements /simplify with criterio.",
-      "source": "marketplace/naiki-review"
+      "source": "./marketplace/naiki-review"
     }
   ]
 }
