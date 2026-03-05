@@ -1,0 +1,6 @@
+{
+  "name": "naiki-review",
+  "version": "1.0.0",
+  "description": "👁️ Code review with human judgment. Evaluates proportionality, naming, architecture, and domain understanding. Complements /simplify.",
+  "author": "EstebanDiaczunn"
+}
