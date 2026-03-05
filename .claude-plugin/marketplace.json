@@ -1,12 +1,13 @@
 {
+  "name": "naiki",
+  "owner": {
+    "name": "EstebanDiaczunn"
+  },
   "plugins": [
     {
       "name": "naiki-review",
       "description": "👁️ Code review with human judgment — evaluates proportionality, naming, architecture, and domain understanding. Complements /simplify with criterio.",
-      "source": {
-        "source": "local",
-        "path": "marketplace/naiki-review"
-      }
+      "source": "marketplace/naiki-review"
     }
   ]
 }
